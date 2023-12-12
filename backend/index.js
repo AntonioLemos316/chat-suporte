@@ -9,10 +9,10 @@ app.use(cors({ origin: true }));
 const CHAT_ENGINE_PROJECT_ID = "7d6f8cf2-7501-489b-8256-cdd24fe1f6b0";
 const CHAT_ENGINE_PRIVATE_KEY = "8cc6f413-c4af-4f79-a24a-793a5e7c9372";
 
-app.post("/authenticate", async (req, res) => {
+app.post("/signup", async (req, res) => {
   const { username, secret, email, first_name, last_name } = req.body;
   try {
-    const r = await axios.put(
+    const r = await axios.post(
       'https://api.chatengine.io/users/',
       { 
         username, secret, email, first_name, last_name
