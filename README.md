@@ -34,30 +34,34 @@ Aqui vai o passo à passo para a execução do programa:
 2. Após a instalação do **NODE JS**, abra **dois** prompts de comando (Pode ser utilizando o Windows + R e digitando "cmd" ou Procurando por "Prompt de Comando" na barra de pesquisa).
 3. Em cada Prompt de Comando, entre nos caminhos da pasta "backend" e "frontend"
 
-   
-![CMD_CHAT](https://github.com/Gael1512/Teste_ReadMe/assets/52392583/945ede8c-50fb-4705-a01c-fbbcb60b3cea)
 
+ ![CMD_CHAT](https://github.com/AntonioLemos316/chat-suporte/assets/52392583/b2c08b41-2153-4b19-9f74-4e1660d4264f)
+  
 
 4. Em ambos caminhos digitem: `npm install` para que seja instalado os pacotes *node_modules* (que é importante).
 
-   
-![CMD_CHAT_2](https://github.com/Gael1512/Teste_ReadMe/assets/52392583/076594f6-2510-4ef1-85fa-f12c4233128a)
+   ![CMD_CHAT_2](https://github.com/AntonioLemos316/chat-suporte/assets/52392583/351b3ebe-8b30-4ae4-88eb-c9e53ef52849)
+   ![CMD_CHAT_2 2](https://github.com/AntonioLemos316/chat-suporte/assets/52392583/26ed1be7-0620-4742-938c-5767b1d366a8)
 
-5. Após a instalação dos pacotes, em cada prompt será executado um novo comando:
+
+
+6. Após a instalação dos pacotes, em cada prompt será executado um novo comando:
 
    - No "backend", será executado o comando `npm run start`.
    - No "frontend", será executado o comando `npm run dev`.
   
-   ![CMD_CHAT_3](https://github.com/Gael1512/Teste_ReadMe/assets/52392583/d7c9e17c-0bb1-47bd-8c6f-8822dccd4a45)
-
-6. Então, no Prompt de comando do "frontend", irá surgir um link que direciona para o programa.
+  ![CMD_CHAT_3](https://github.com/AntonioLemos316/chat-suporte/assets/52392583/572802b7-0f57-43b4-9065-354078b9dec4)
 
 
-   ![CMD_CHAT_4](https://github.com/Gael1512/Teste_ReadMe/assets/52392583/c13c6f8b-b9d6-447d-b97b-7d79a022e762)
+7. Então, no Prompt de comando do "frontend", irá surgir um link que direciona para o programa.
+
+
+   ![CMD_CHAT_4](https://github.com/AntonioLemos316/chat-suporte/assets/52392583/99c09791-ffa5-484f-8b1b-74abadb17e47)
 
 
 
-   ![CMD_CHAT_5](https://github.com/Gael1512/Teste_ReadMe/assets/52392583/5fa11941-fa06-4680-ad0a-85db144daf79)
+   ![CMD_CHAT_5](https://github.com/AntonioLemos316/chat-suporte/assets/52392583/20f467f4-4977-410f-a38d-e51df69e3f01)
+
 
 
 
@@ -73,8 +77,9 @@ O Programa se inicia com uma tela onde você pode se cadastrar (caso não tenha 
 
 
    
-   ![CMD_CHAT_6](https://github.com/Gael1512/Teste_ReadMe/assets/52392583/e96b5a6f-cea9-4017-95b9-d59db89c1686)
-   ![CMD_CHAT_joao](https://github.com/Gael1512/Teste_ReadMe/assets/52392583/401b8646-622f-455e-873a-36be7b78b37b)
+   ![CMD_CHAT_8](https://github.com/AntonioLemos316/chat-suporte/assets/52392583/8fbe90ff-40f3-4861-ba56-9b1350d660ed)
+   ![CMD_CHAT_JOAO](https://github.com/AntonioLemos316/chat-suporte/assets/52392583/fc0edb5c-a503-4d94-af3e-6d1ef3b80790)
+
 
 
 
@@ -83,14 +88,8 @@ O Programa se inicia com uma tela onde você pode se cadastrar (caso não tenha 
    Neste caso, basta preencher suas informações na parte de Login e clicar em **"LOGIN"**. Desta forma, você será redirecionado à sua conta.
 
 
-   
-   ![CMD_CHAT_7](https://github.com/Gael1512/Teste_ReadMe/assets/52392583/b4f4fa1f-f162-4cf9-91de-67cd6fad7396)
-   ![CMD_CHAT_rafael](https://github.com/Gael1512/Teste_ReadMe/assets/52392583/182d4025-b67a-402a-b2d5-6560db686816)
-
-
-
-
-   Nestas imagens, são mostradas conversas entre as duas contas: A que foi criada chamada "João"  e  A que já estava criada previamente chamada "Rafael". Ou seja, ambas contas conseguem interagir entre si como deve ser.
+   ![CMD_CHAT_7](https://github.com/AntonioLemos316/chat-suporte/assets/52392583/27e5b5c7-e39e-495c-b7ff-1e6eb628b5d9)
+   ![CMD_CHAT_RAFAEL](https://github.com/AntonioLemos316/chat-suporte/assets/52392583/4c0a1cf7-3cf1-4af8-b2cf-3819fe1a2b90)
 
 
 
